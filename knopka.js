@@ -1,6 +1,6 @@
 function createParagraph() {
   let para = document.createElement('p');
-  para.textContent = 'Зачем нажал?!';
+  para.textContent = 'Твой компьютер заражен вирусом! Твой компьютер заражен вирусом! Твой компьютер заражен вирусом! Твой компьютер заражен вирусом! ';
   document.body.appendChild(para);
 }
 
