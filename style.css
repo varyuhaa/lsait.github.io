@@ -1,0 +1,141 @@
+html {
+	  
+	  background-image: url(https://bgpics.ru/pictures/1920x1080/10860-nebo-fon-okean-1920x1080.jpg);
+	  background-repeat: no-repeat;
+	  background-position: center center;
+	  background-attachment: fixed;
+	  background-size: cover; 
+      
+      }
+
+body {
+
+margin: auto 0;
+padding: auto 0;
+
+}      
+
+.title1 {
+	
+display: block;
+background-image: url(https://i.pinimg.com/originals/96/dc/58/96dc58bf59e10d75b45957dcace49547.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover; 
+height: 50pt;
+width: 100%;
+font-size: 44px;
+font-family: GABRIOLA;
+background-color: black;
+text-align: center;
+color: white;
+border-bottom: 3px solid white;
+
+
+}
+
+.title1 a {
+
+text-decoration: none;
+color: white;
+cursor: default;
+
+}
+
+.title1 a:hover {
+
+color: gold;
+cursor: default;
+transform: .3s;
+opacity: 0.8;
+
+}
+
+.content {
+
+margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+width: 1200px;
+text-align: left;
+font-size: 25px;
+font-family:segoe print;
+color: white;
+background-color: black;
+border: solid white;
+border-radius: 15pt;
+padding: 20px;
+background-image: url(https://ink-project.ru/wallpapers/small/2368.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover; 
+
+}
+
+.photo1 {
+
+float: left;
+margin: 7px 7px 7px 7px;
+border: 2px solid white;
+border-radius: 6px;
+
+}
+
+.photo2 {
+
+float: right;
+margin: 7px 7px 7px 7px;
+border: 2px solid white;
+border-radius: 6px;
+
+}
+
+.text1 {
+
+font-size: 28px;
+font-family: cursive;
+color: #05e6cb;
+
+}
+
+.text2 {
+font-size: 32px;
+font-family: cursive;
+color: #05e6cb;
+
+}
+
+.check {
+
+display: flex;
+
+}
+
+.click {
+
+margin-left: 20px;
+margin-top: 15px;
+height: 60px;
+width: 160px;
+font-size: 19pt;
+font-family: cursive;
+background-image: url();
+text-align: center;
+
+}
+
+.click a {
+
+text-decoration: none;
+color: black;
+cursor: default;
+
+}
+
+.click a:hover {
+
+color: red;
+cursor: default;
+
+}
